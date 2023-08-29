@@ -1,0 +1,654 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Muhamet Gjollesha",
+        "EMERTIMI": "Fakulteti i NdÃ«rtimit",
+        "STACIONI": "21 DHJETORI",
+        "Linja2": "10A",
+        "Linja3": null,
+        "Linja4": null,
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "21 DHJETORI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.802615,
+          41.327432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Blv. â€œBajram Curriâ€",
+        "EMERTIMI": "KryqÃ«zimi i  Blv. â€œBajram Curriâ€ me Blv. â€œDÃ«shmorÃ«t e Kombitâ€, pranÃ« Lulishtes â€œ3 VÃ«llezÃ«rit FrashÃ«riâ€.",
+        "STACIONI": "3 VELLEZERIT FRASHERI",
+        "Linja2": null,
+        "Linja3": "14",
+        "Linja4": "16b",
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "8",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "3 VELLEZERIT FRASHERI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.818781,
+          41.323385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Fadil Rada",
+        "EMERTIMI": "Blv. â€œZhan Darkâ€, nÃ« afÃ«rsi tÃ« kryqÃ«zimit me RrugÃ«n â€œFadil Radaâ€",
+        "STACIONI": "ATSH",
+        "Linja2": "10A",
+        "Linja3": "14",
+        "Linja4": "16a",
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "5A",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "ATSH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.827208,
+          41.327337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Blv. â€œZhan Darkâ€",
+        "EMERTIMI": "Blv. â€œZhan Darkâ€, nÃ« afÃ«rsi tÃ« kryqÃ«zimit me RrugÃ«n â€œArkitekt Kasemiâ€",
+        "STACIONI": "BRRYLI",
+        "Linja2": "10A",
+        "Linja3": "14",
+        "Linja4": "16a",
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "5A",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "BRRYLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.833795,
+          41.33049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Blv. â€œZhan Darkâ€",
+        "EMERTIMI": "Pas kryqÃ«zimit tÃ« Blv. â€œZhan Darkâ€ me RrugÃ«n â€œArkitekt Kasemiâ€, tek â€œBrryliâ€",
+        "STACIONI": "BRRYLI",
+        "Linja2": "16b",
+        "Linja3": null,
+        "Linja4": null,
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "BRRYLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.834313,
+          41.331124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Ferit Xhajko",
+        "EMERTIMI": "KryqÃ«zimi i  RrugÃ«s â€œFerit Xhajkoâ€ me  RrugÃ«n \"Siri Kodra\".",
+        "STACIONI": "DISPANCERIA",
+        "Linja2": "1A",
+        "Linja3": "16",
+        "Linja4": "12B",
+        "Linja5": "16A",
+        "Linja6": "1B",
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "DISPANCERIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.820926,
+          41.337486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Ferit Xhajko",
+        "EMERTIMI": "PÃ«rpara kryqÃ«zimit tÃ« RrugÃ«s â€œFerrit Xhajkoâ€ me RrugÃ«n â€œSiri Kodraâ€.",
+        "STACIONI": "DISPANCERIA",
+        "Linja2": "1A",
+        "Linja3": "12B",
+        "Linja4": "16a",
+        "Linja5": "16b",
+        "Linja6": "1B",
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "DISPANCERIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82071,
+          41.337561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Bardhyl",
+        "EMERTIMI": "Pas kryqÃ«zimit tÃ« RrugÃ«s â€œBardhylâ€ me RrugÃ«n  â€œHoxha Tahsimâ€",
+        "STACIONI": "DISPECERIA E UNAZES",
+        "Linja2": "16b",
+        "Linja3": null,
+        "Linja4": null,
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "DISPECERIA E UNAZES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.833158,
+          41.334304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Bardhyl",
+        "EMERTIMI": "KryqÃ«zimin e RrugÃ«s â€œBardhylâ€ me RrugÃ«n â€œHoxha Tahsimâ€",
+        "STACIONI": "DISPECERIA E UNAZES",
+        "Linja2": "16a",
+        "Linja3": null,
+        "Linja4": null,
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "DISPECERIA E UNAZES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.832883,
+          41.33435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Asim Vokshi",
+        "EMERTIMI": "Rruga  â€œAsim Vokshiâ€, pÃ«rpara kryqÃ«zimit me RrugÃ«n â€œDon Boskoâ€",
+        "STACIONI": "DON BOSKO",
+        "Linja2": "6",
+        "Linja3": "13",
+        "Linja4": "16b",
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "DON BOSKO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.807838,
+          41.334622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Asim Vokshi",
+        "EMERTIMI": "Rruga  â€œAsim Vokshiâ€, pas kryqÃ«zimit me RrugÃ«n â€œDon Boskoâ€",
+        "STACIONI": "DON BOSKO",
+        "Linja2": "6",
+        "Linja3": "13",
+        "Linja4": "16b",
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "DON BOSKO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.807703,
+          41.334466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Blv\"Gjergj Fishta\"",
+        "EMERTIMI": "Blv. â€œGjergj Fishtaâ€, nÃ« kryqÃ«zimin me RrugÃ«n â€œSami FrashÃ«riâ€",
+        "STACIONI": "DREJTORIA E POLICISE",
+        "Linja2": "16",
+        "Linja3": null,
+        "Linja4": null,
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "DREJTORIA E POLICISE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.812746,
+          41.322962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Bardhyl",
+        "EMERTIMI": "NÃ« afÃ«rsi tÃ« kryqÃ«zimit tÃ« RrugÃ«s â€œBardhylâ€ me RrugÃ«n e â€œDibrÃ«sâ€",
+        "STACIONI": "FARMACIA 10",
+        "Linja2": null,
+        "Linja3": null,
+        "Linja4": null,
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "FARMACIA 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.829332,
+          41.339676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Bardhyl",
+        "EMERTIMI": "KryqÃ«zimi i RrugÃ«s â€œBardhylâ€ me RrugÃ«n â€œKongresi i Manastiritâ€",
+        "STACIONI": "FARMACIA 10",
+        "Linja2": null,
+        "Linja3": null,
+        "Linja4": null,
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "FARMACIA 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.829648,
+          41.339481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Blv \"Gjergj Fishta\"",
+        "EMERTIMI": "Blv. â€œGjergj Fishtaâ€, nÃ« kryqÃ«zimin me RrugÃ«n â€œNikolla Lenaâ€",
+        "STACIONI": "GJYKATA",
+        "Linja2": "16A",
+        "Linja3": null,
+        "Linja4": null,
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "GJYKATA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.806852,
+          41.322049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Asim Vokshi",
+        "EMERTIMI": "Rruga â€œAsim Vokshiâ€, tek shkolla Harry Fultz",
+        "STACIONI": "HARRY FULTZ",
+        "Linja2": "6",
+        "Linja3": "13",
+        "Linja4": "16b",
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "HARRY FULTZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.811102,
+          41.335191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Asim Vokshi",
+        "EMERTIMI": "Rruga  â€œAsim Vokshiâ€, pÃ«rballÃ« shkollÃ«s Harry Fultz",
+        "STACIONI": "HARRY FULTZ",
+        "Linja2": "6",
+        "Linja3": "13",
+        "Linja4": "16b",
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "HARRY FULTZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.811704,
+          41.335131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Muhamet Gjollesha",
+        "EMERTIMI": "NÃ« afÃ«rsi tÃ« kryqÃ«zimit tÃ« RrugÃ«s â€œMuhamet Gjolleshaâ€ me RrugÃ«n â€œSandÃ«r Prosiâ€",
+        "STACIONI": "INXHINIERIA E NDERTIMIT",
+        "Linja2": null,
+        "Linja3": null,
+        "Linja4": null,
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "INXHINIERIA E NDERTIMIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.80265,
+          41.328209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Blv. â€œBajram Curriâ€",
+        "EMERTIMI": "Blv. â€œBajram Curriâ€, pranÃ« ish â€“ Kinema â€œAgimiâ€",
+        "STACIONI": "ISH-KINEMA AGIMI",
+        "Linja2": "16b",
+        "Linja3": null,
+        "Linja4": null,
+        "Linja5": null,
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "ISH-KINEMA AGIMI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.81471,
+          41.322747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Blv. â€œZogu Iâ€",
+        "EMERTIMI": "Pas kryqÃ«zimit tÃ« Blv. â€œZogu Iâ€ me RrugÃ«n â€œReshit Petrelaâ€ (Fillimi i linjÃ«s).",
+        "STACIONI": "ISH-STACIONI TRENIT",
+        "Linja2": "6",
+        "Linja3": "13",
+        "Linja4": "16b",
+        "Linja5": "9A",
+        "Linja6": null,
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "14",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "ISH-STACIONI TRENIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.814766,
+          41.335783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": 0,
+        "RRUGA": "Reshit  Petrela",
+        "EMERTIMI": "Pas kryqÃ«zimit tÃ« RrugÃ«s â€œReshit Petrelaâ€, me Blv. â€œZogu Iâ€ (Fillimi i LinjÃ«s)",
+        "STACIONI": "ISH-STACIONI TRENIT",
+        "Linja2": "12A",
+        "Linja3": "12B",
+        "Linja4": "14",
+        "Linja5": "16a",
+        "Linja6": "1B",
+        "Linja7": null,
+        "Linja8": null,
+        "Linja9": null,
+        "Linja10": null,
+        "Linja_1": "1A",
+        "Linja11_1": null,
+        "Linja12": null,
+        "Linja13": null,
+        "Linja14": null,
+        "name": "ISH-STACIONI TRENIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.817036,
+          41.335972
+        ]
+      }
+    },
