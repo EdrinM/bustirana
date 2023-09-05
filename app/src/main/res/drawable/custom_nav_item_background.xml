@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/custom_nav_item_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Normal state -->
+    <item android:drawable="@drawable/rounded_square" android:state_checked="false" />
+    <!-- Selected state -->
+    <item android:drawable="@drawable/rounded_square_selected" android:state_checked="true" />
+</selector>
