@@ -1,5 +1,6 @@
 package com.example.buslist
 
+import android.app.ActionBar
 import android.content.Intent
 import android.os.Bundle
 import android.view.View
@@ -7,6 +8,7 @@ import android.widget.AdapterView
 import android.widget.ArrayAdapter
 import android.widget.ListView
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContextCompat
 import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
@@ -22,6 +24,12 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
+        supportActionBar?.setDisplayOptions(androidx.appcompat.app.ActionBar.DISPLAY_SHOW_CUSTOM)
+        supportActionBar?.setCustomView(R.layout.custom_titlebar)
+        val actionBar = supportActionBar
+        actionBar?.setDisplayHomeAsUpEnabled(true)
+        supportActionBar?.setBackgroundDrawable(ContextCompat.getDrawable(this, R.drawable.custom_action_bar_background))
 
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
@@ -62,6 +70,12 @@ class MainActivity : AppCompatActivity() {
             // Show the ListView only when the Dashboard destination is selected
             val showListView = destination.id == R.id.navigation_dashboard
             dashboardContainer.visibility = if (showListView) View.VISIBLE else View.GONE
+            when (destination.id) {
+                R.id.navigation_home -> supportActionBar?.title = "Home"
+                R.id.navigation_dashboard -> supportActionBar?.title = "OpenStreetMap"
+                // Add more cases for other fragments as needed
+                else -> supportActionBar?.title = "Default Title"
+            }
         }
     }
 }

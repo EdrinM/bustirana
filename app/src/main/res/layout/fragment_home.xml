@@ -31,10 +31,13 @@
         android:layout_marginEnd="16dp"
         android:onClick="onOpenMapButtonClick"
         android:text="Show Station Routes"
+        android:elevation="4dp"
         android:textColor="#FFFFFF"
+        android:background="@drawable/round_button_background"
         app:layout_constraintTop_toBottomOf="@id/text_home"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" />
+        app:layout_constraintEnd_toEndOf="parent"
+        />
 
     <ScrollView
         android:id="@+id/scrollView"
