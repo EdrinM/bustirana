@@ -1,0 +1,7 @@
+<!-- res/drawable/list_item_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#9C27B0" /> <!-- Red outline color -->
+    <stroke android:color="#00FF22" android:width="2dp" /> <!-- Red outline with width -->
+    <corners android:radius="12dp" /> <!-- Adjust radius for round corners -->
+</shape>

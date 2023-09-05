@@ -1,5 +1,6 @@
 package com.example.buslist.ui.home
 
+import android.content.Context
 import android.content.Intent
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -11,6 +12,7 @@ import android.widget.ListView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.example.buslist.OpenStreetMapActivity
+import com.example.buslist.R
 import com.example.buslist.databinding.FragmentHomeBinding
 
 class HomeFragment : Fragment() {
@@ -52,8 +54,9 @@ class HomeFragment : Fragment() {
 
         val openMapButton = binding.openMapButton
         val listView = binding.listView
-        val adapter = ArrayAdapter(requireContext(), android.R.layout.simple_list_item_1, stationNames)
+        val adapter = CustomArrayAdapter(requireContext(), R.layout.list_item, stationNames)
         listView.adapter = adapter
+
 
         openMapButton.setOnClickListener {
             openMapButton.visibility = View.GONE
@@ -68,6 +71,20 @@ class HomeFragment : Fragment() {
         }
 
         return root
+    }
+    // Define a custom adapter for list items
+    private inner class CustomArrayAdapter(
+        context: Context,
+        private val resource: Int,
+        objects: Array<String>
+    ) : ArrayAdapter<String>(context, resource, objects) {
+
+        override fun getView(position: Int, convertView: View?, parent: ViewGroup): View {
+            val view = super.getView(position, convertView, parent)
+            // Set the background color to red
+            view.setBackgroundResource(R.drawable.list_item_background)
+            return view
+        }
     }
 
     override fun onDestroyView() {
